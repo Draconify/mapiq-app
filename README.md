@@ -1,0 +1,2 @@
+# mapiq-app
+Public pages.
